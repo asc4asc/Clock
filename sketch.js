@@ -16,7 +16,7 @@ function draw() {
   noFill();
   
   //seconds
-  stroke(255,115,120);
+  stroke(5, 245, 245);
   let end1= map(sc, 0, 60, 0, 360 );
   arc(0,0,350,350,0, end1);
   push();
