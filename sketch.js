@@ -41,7 +41,7 @@ function draw() {
   rotate(end3);
   line(0,0,50,0);
   pop();  
-
+//mid point
   stroke(255);
   point(0,0);
 
