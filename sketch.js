@@ -18,7 +18,7 @@ function draw() {
   //seconds
   stroke(5, 245, 245);
   let end1= map(sc, 0, 60, 0, 360 );
-  arc(0,0,350,350,0, end1);
+  // arc(0,0,350,350,0, end1);
   push();
   rotate(end1);
   line(0,0,100,0);
