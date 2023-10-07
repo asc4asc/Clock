@@ -5,7 +5,7 @@ function setup() {
 
 function draw() { 
   background(0);
-  translate(260,260);
+  translate(160,160);
   rotate(-90);
   let hr= hour();
   let mn= minute();
